@@ -33,6 +33,17 @@
         * DOM helps us with getting elements and their values and manipulating them in different ways. With scripts, we can use DOM functions or methods to communicate with the view.
     * Event Driven Programming
         * click, mouseover, scripts running after document loads and many others (^JS HTML DOM Event Reference)
+    * File I/O - read and write files in the system
+    * Debugging
+        * Syntax (misspelling keywords, missing semicolon, unbalanced quotes etc.)
+        * Logic Errors (dividing 0/0, return statement in the middle of code)
+        * When debugging, always use console log and chrome dev tools for more information and try to understand where the problem is occurring
+    * Object Oriented Programming
+        * Classes - blueprint and map for the actual object (i.e. blueprint for a house)
+        * Object - the actual thing that the blueprint guides to produce (i.e. the house)
+    * Algorithms - a series of steps to complete a task
+
+
 
 
 
