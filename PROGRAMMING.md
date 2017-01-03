@@ -32,7 +32,7 @@
             a model that describes the relationship between the view and the each elements in HTML. Document refers to either the HTML code or the view itself when you open in a browser. Object refers each of the elements that document contains and builds up. Model refers to the relationship between the two
         * DOM helps us with getting elements and their values and manipulating them in different ways. With scripts, we can use DOM functions or methods to communicate with the view.
     * Event Driven Programming
-        * click, mouseover, scripts running after document loads and many others
+        * click, mouseover, scripts running after document loads and many others (^JS HTML DOM Event Reference)
 
 
 
